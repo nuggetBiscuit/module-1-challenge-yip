@@ -34,7 +34,7 @@ The following image shows the web application's appearance and functionality:
 
 
 ## Screenshot of Deployed Application
-![](./Assets/deployed-application-screenshot.png)
+![The deployed github pages showing the nav bar, header image, aside bar, and all the text.](./Assets/deployed-application-screenshot.png)
 
 ## Link of Deployed Application
 https://nuggetbiscuit.github.io/module-1-challenge-yip/
